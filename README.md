@@ -1,6 +1,6 @@
 # stimanography
 
-`stimanograph` is a simple implementation of a [steganographic](https://en.wikipedia.org/wiki/Steganography) algorithm. 
+`stimanography` is a simple implementation of a [steganographic](https://en.wikipedia.org/wiki/Steganography) algorithm. 
 
 This program hides a message inside an image by replacing the last bit of each byte in the image with a bit from the message. 
 
